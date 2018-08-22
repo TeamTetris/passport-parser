@@ -1,58 +1,58 @@
 0;Singapore;127;39;32
-1;Germany;126;38;34
-2;South Korea;121;43;34
-3;Denmark;126;37;35
-4;Sweden;126;37;35
-5;Finland;126;37;35
-6;Luxembourg;125;38;35
-7;Italy;125;38;35
-8;France;124;39;35
-9;Norway;123;40;35
-10;Netherlands;123;40;35
-11;Spain;123;40;35
-12;Japan;121;42;35
-13;United States of America;116;47;35
-14;Switzerland;123;39;36
-15;Belgium;123;39;36
-16;Austria;123;39;36
-17;Greece;122;40;36
-18;Portugal;122;40;36
-19;Malaysia;121;41;36
-20;United Kingdom;118;44;36
-21;Ireland;116;46;36
-22;Canada;114;48;36
-23;Czechia;122;39;37
-24;Hungary;121;40;37
-25;Malta;122;38;38
-26;New Zealand;113;47;38
-27;Australia;110;50;38
-28;Slovenia;120;39;39
-29;Iceland;119;40;39
-30;Poland;119;40;39
-31;Lithuania;119;40;39
-32;Slovakia;119;40;39
-33;Latvia;119;40;39
-34;Estonia;119;39;40
-35;Liechtenstein;116;40;42
-36;Romania;116;40;42
-37;Bulgaria;114;42;42
-38;Cyprus;119;36;43
-39;Croatia;115;39;44
-40;United Arab Emirates;113;41;44
-41;Brazil;110;44;44
-42;Chile;109;45;44
-43;Argentina;108;46;44
-44;Monaco;110;43;45
-45;Hong Kong;114;33;51
-46;San Marino;106;41;51
-47;Andorra;101;46;51
-48;Israel;105;40;53
+1;Germany;126;39;33
+2;Denmark;126;39;33
+3;Sweden;126;39;33
+4;Finland;126;39;33
+5;Luxembourg;125;40;33
+6;Norway;123;42;33
+7;Netherlands;123;42;33
+8;South Korea;121;44;33
+9;United States of America;116;49;33
+10;Italy;125;39;34
+11;France;124;40;34
+12;Spain;123;41;34
+13;Greece;122;42;34
+14;Portugal;122;42;34
+15;Japan;121;43;34
+16;Ireland;116;48;34
+17;Canada;114;50;34
+18;Switzerland;123;40;35
+19;Belgium;123;40;35
+20;Austria;123;40;35
+21;Hungary;121;42;35
+22;United Kingdom;118;45;35
+23;Czechia;122;40;36
+24;Malta;122;40;36
+25;Malaysia;121;41;36
+26;New Zealand;113;49;36
+27;Australia;110;52;36
+28;Slovenia;120;41;37
+29;Iceland;119;42;37
+30;Lithuania;119;42;37
+31;Slovakia;119;42;37
+32;Estonia;119;41;38
+33;Poland;119;41;38
+34;Latvia;119;41;38
+35;Romania;116;42;40
+36;Bulgaria;114;44;40
+37;Liechtenstein;116;41;41
+38;Cyprus;119;37;42
+39;Croatia;115;41;42
+40;United Arab Emirates;113;43;42
+41;Brazil;110;45;43
+42;Monaco;110;45;43
+43;Chile;109;46;43
+44;Argentina;108;47;43
+45;Hong Kong;114;35;49
+46;San Marino;106;42;50
+47;Andorra;101;47;50
+48;Israel;105;41;52
 49;Barbados;108;36;54
 50;Brunei;105;39;54
 51;Mexico;99;43;56
-52;Bahamas;104;36;58
-53;Uruguay;99;41;58
-54;Vatican City;99;41;58
+52;Vatican City;99;43;56
+53;Uruguay;99;42;57
+54;Bahamas;104;36;58
 55;Peru;89;47;62
 56;Seychelles;104;31;63
 57;St. Vincent and the Grenadines;101;34;63
@@ -62,15 +62,15 @@
 61;Trinidad and Tobago;98;34;66
 62;Ukraine;90;41;67
 63;Mauritius;99;31;68
-64;Venezuela;86;44;68
+64;Venezuela;85;45;68
 65;Saint Lucia;95;34;69
 66;Paraguay;88;41;69
 67;Taiwan;83;46;69
 68;Grenada;96;32;70
 69;Panama;87;41;70
-70;Macao;88;38;72
-71;Honduras;84;41;73
-72;Serbia;82;43;73
+70;Macao;88;39;71
+71;Serbia;82;45;71
+72;Honduras;84;41;73
 73;Vanuatu;87;37;74
 74;Guatemala;82;42;74
 75;Dominica;88;35;75
@@ -79,95 +79,95 @@
 78;Samoa;86;36;76
 79;Tuvalu;83;37;78
 80;Colombia;79;40;79
-81;Tonga;82;35;81
-82;Macedonia;76;41;81
-83;Kiribati;81;35;82
-84;Russian Federation;79;36;83
-85;Nicaragua;75;40;83
-86;Montenegro;76;38;84
+81;Macedonia;76;42;80
+82;Tonga;82;35;81
+83;Russian Federation;79;38;81
+84;Montenegro;76;41;81
+85;Kiribati;81;35;82
+86;Nicaragua;75;40;83
 87;Marshall Islands;74;40;84
-88;Turkey;72;42;84
-89;Moldova;74;38;86
-90;Bosnia and Herzegovina;73;39;86
-91;Georgia;72;40;86
+88;Bosnia and Herzegovina;73;41;84
+89;Turkey;72;42;84
+90;Georgia;72;41;85
+91;Moldova;74;38;86
 92;Micronesia;68;43;87
-93;Palau;66;43;89
-94;Albania;67;40;91
+93;Albania;67;42;89
+94;Palau;66;43;89
 95;South Africa;64;33;101
-96;Timor-Leste;57;39;102
-97;Kuwait;52;40;106
+96;Timor-Leste;57;40;101
+97;Kuwait;53;41;104
 98;Belize;60;31;107
 99;Fiji;51;38;109
 100;Ecuador;46;43;109
 101;Jamaica;54;33;111
-102;Qatar;48;37;113
+102;Qatar;49;37;112
 103;Guyana;47;37;114
-104;Bahrain;45;38;115
+104;Bahrain;46;38;114
 105;Maldives;44;38;116
-106;Kazakhstan;39;42;117
-107;Thailand;39;41;118
-108;Belarus;42;37;119
-109;Oman;40;39;119
-110;Bolivia;37;42;119
-111;Nauru;42;36;120
-112;Botswana;49;28;121
-113;Saudi Arabia;38;39;121
-114;Suriname;38;38;122
-115;Papua New Guinea;38;38;122
-116;Lesotho;47;28;123
-117;Indonesia;34;40;124
-118;Swaziland;46;27;125
-119;China;27;46;125
-120;Malawi;44;28;126
+106;Belarus;43;38;117
+107;Oman;41;40;117
+108;Thailand;39;41;118
+109;Kazakhstan;38;42;118
+110;Saudi Arabia;39;40;119
+111;Bolivia;37;42;119
+112;Nauru;42;36;120
+113;China;29;49;120
+114;Botswana;49;28;121
+115;Lesotho;47;29;122
+116;Suriname;38;38;122
+117;Papua New Guinea;38;38;122
+118;Indonesia;34;42;122
+119;Swaziland;46;28;124
+120;Malawi;44;29;125
 121;Kenya;39;33;126
-122;Namibia;42;29;127
-123;Azerbaijan;35;36;127
-124;Cuba;30;40;128
+122;Azerbaijan;35;37;126
+123;Namibia;42;29;127
+124;Cuba;30;41;127
 125;Gambia;45;24;129
 126;Tanzania;42;27;129
-127;Dominican Republic;27;42;129
-128;Tunisia;34;34;130
-129;Cape Verde;34;34;130
+127;Tunisia;35;34;129
+128;Cape Verde;34;35;129
+129;Dominican Republic;27;42;129
 130;Armenia;32;36;130
-131;Uganda;36;31;131
-132;Philippines;33;34;131
-133;Mongolia;30;37;131
-134;Zambia;41;25;132
+131;Zambia;42;25;131
+132;Uganda;36;31;131
+133;Philippines;33;34;131
+134;Mongolia;30;37;131
 135;Ghana;39;27;132
 136;Zimbabwe;38;28;132
-137;Kyrgyzstan;27;39;132
-138;Morocco;29;35;134
-139;Sierra Leone;39;24;135
-140;Benin;31;32;135
-141;Uzbekistan;26;37;135
-142;India;25;37;136
-143;Sao Tome and Principe;23;39;136
+137;Morocco;30;36;132
+138;Kyrgyzstan;27;39;132
+139;India;25;41;132
+140;Sierra Leone;39;24;135
+141;Benin;31;32;135
+142;Uzbekistan;26;37;135
+143;Sao Tome and Principe;23;40;135
 144;Guinea;29;32;137
 145;Cote d'Ivoire (Ivory Coast);28;33;137
 146;Tajikistan;25;36;137
 147;Haiti;23;38;137
-148;Senegal;31;29;138
-149;Bhutan;17;43;138
-150;Burkina Faso;28;31;139
-151;Gabon;26;33;139
-152;Mauritania;26;33;139
+148;Bhutan;17;44;137
+149;Senegal;31;29;138
+150;Mauritania;27;33;138
+151;Burkina Faso;28;31;139
+152;Gabon;26;33;139
 153;Mozambique;27;31;140
-154;Rwanda;23;35;140
-155;Mali;32;25;141
-156;Niger;29;28;141
-157;Togo;25;32;141
-158;Madagascar;24;33;141
-159;Cambodia;20;37;141
-160;Turkmenistan;17;40;141
-161;Viet Nam;21;35;142
-162;Jordan;20;36;142
-163;Comoros;19;37;142
-164;Guinea-Bissau;25;30;143
-165;Chad;23;32;143
-166;Laos;21;34;143
-167;Egypt;19;36;143
-168;Algeria;18;37;143
-169;Angola;22;32;144
+154;Madagascar;24;34;140
+155;Rwanda;23;35;140
+156;Mali;32;25;141
+157;Niger;29;28;141
+158;Togo;25;32;141
+159;Jordan;21;36;141
+160;Cambodia;20;37;141
+161;Algeria;19;38;141
+162;Turkmenistan;17;40;141
+163;Viet Nam;21;35;142
+164;Comoros;19;37;142
+165;Guinea-Bissau;25;30;143
+166;Chad;23;32;143
+167;Laos;21;34;143
+168;Egypt;19;36;143
+169;Angola;23;31;144
 170;Equatorial Guinea;18;36;144
 171;Burundi;20;32;146
 172;Central African Republic;19;33;146
@@ -176,24 +176,24 @@
 175;Congo;17;33;148
 176;Djibouti;14;36;148
 177;Nigeria;23;26;149
-178;Myanmar [Burma];15;33;150
-179;Kosovo;15;33;150
+178;Myanmar [Burma];15;34;149
+179;Kosovo;15;34;149
 180;Congo (Dem. Rep.);15;32;151
-181;Nepal;14;32;152
+181;Nepal;14;33;151
 182;North Korea;11;35;152
-183;South Sudan;14;31;153
-184;Sri Lanka;17;27;154
-185;Palestinian Territories;14;30;154
-186;Iran;13;31;154
-187;Ethiopia;11;33;154
-188;Eritrea;11;33;154
-189;Yemen;10;34;154
-190;Bangladesh;18;25;155
-191;Lebanon;15;28;155
-192;Libya;13;30;155
-193;Sudan;9;34;155
+183;Sri Lanka;17;28;153
+184;South Sudan;14;31;153
+185;Iran;13;32;153
+186;Bangladesh;18;26;154
+187;Lebanon;16;28;154
+188;Palestinian Territories;14;30;154
+189;Yemen;11;33;154
+190;Ethiopia;11;33;154
+191;Eritrea;11;33;154
+192;Sudan;10;34;154
+193;Libya;13;30;155
 194;Somalia;9;29;160
 195;Syria;10;27;161
-196;Pakistan;8;26;164
+196;Pakistan;8;28;162
 197;Iraq;7;26;165
 198;Afghanistan;5;25;168

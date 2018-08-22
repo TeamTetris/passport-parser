@@ -38,10 +38,10 @@ for i in range(len(country_name_matches)):
     passport = Passport()
     passport.index = i
     passport.country = country_name_matches[i]
-    passport.score = score_matches[i]
-    passport.visa_free = visa_free_matches[i]
-    passport.visa_on_arrival = visa_on_arrival_matches[i]
-    passport.visa_required = visa_required_matches[i]
+    passport.score = int(score_matches[i])
+    passport.visa_free = int(visa_free_matches[i])
+    passport.visa_on_arrival = int(visa_on_arrival_matches[i])
+    passport.visa_required = int(visa_required_matches[i])
 
     passports.append(passport)
 
